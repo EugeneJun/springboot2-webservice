@@ -1,8 +1,0 @@
-com/coupang/web/PostsApiControllerTest.java
- com.coupang.web.PostsApiControllerTest
-com/coupang/web/HelloControllerTest.java
- com.coupang.web.HelloControllerTest
-com/coupang/domain/PostsRepositoryTest.java
- com.coupang.domain.PostsRepositoryTest
-com/coupang/web/IndexControllerTest.java
- com.coupang.web.IndexControllerTest
